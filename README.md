@@ -16,12 +16,6 @@ NumPy, Pandas, Scikit-learn (for data analysis and ML modeling)
 Pyttsx3 (for text-to-speech alerts)
 TextBlob (for sentiment analysis)
 
-Installation
-
-Clone the repository:
-git clone https://github.com/your-repo/upi-shield-pro.git
-cd upi-shield-pro
-
 Install dependencies:
 pip install -r requirements.txt
 
@@ -33,6 +27,7 @@ The application uses a simulated dataset for scam  conversation patterns:
 Scam Conversations: Contains features like text length, sentiment polarity, keyword occurrences, and scam-related terminology.
 Normal Conversations: Samples of everyday conversations for model training.
 Live Audio Data: Users can upload or record calls for real-time analysis.
+https://drive.google.com/drive/folders/1shIKKjHAB-Vcnp45HgHeXQYqv-p8Nt-6?usp=sharing
 
 Tools & Technologies Implemented
 
